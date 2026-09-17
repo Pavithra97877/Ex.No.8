@@ -1,4 +1,4 @@
-## Exp 4: Reproducing an Image Using Prompts for Image Generation
+## Exp 5: Reproducing an Image Using Prompts for Image Generation
 
 # NAME : PAVITHRA S
 # Reg. No : 212223220072 
